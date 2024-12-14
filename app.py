@@ -1,9 +1,4 @@
 import streamlit as st
-<<<<<<< HEAD
-import plotly.express as px
-=======
-
->>>>>>> 965f198ccad5a059079c939faf1862b615bdbd2b
 
 
 st.title("Análisis de la Base de Datos Northwind")  
@@ -13,11 +8,6 @@ Este proyecto explora los datos de la base de datos **Northwind**, que contiene 
 El objetivo es analizar dinámicas clave del negocio a través de visualizaciones interactivas, como gráficos de dispersión y mapas jerárquicos, para ofrecer insights que apoyen la toma de decisiones estratégicas.  
 
 
-<<<<<<< HEAD
-### Sobre mí  
-
-=======
->>>>>>> 965f198ccad5a059079c939faf1862b615bdbd2b
 
 ### Propósito del Proyecto  
 A través de los siguientes análisis visuales, se busca:
