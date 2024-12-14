@@ -1,7 +1,8 @@
 import sys
 from pathlib import Path
-import plotly.express as px
 import streamlit as st
+import plotly.express as px
+import plotly.graph_objects as go
 
 root = Path(__file__).parent.parent
 sys.path.append(str(root))
