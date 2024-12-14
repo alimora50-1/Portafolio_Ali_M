@@ -73,7 +73,7 @@ grafico1 = px.bar(
 
 st.plotly_chart(grafico1)
 
-# Segundo gráfico: Relación entre precios de productos y órdenes de compra (con los filtros aplicados)
+# Segundo gráfico: Relación entre precios de productos y órdenes de compra 
 fig2 = px.scatter(
     precio_combinado_filtrado, 
     x='Precio_de_producto', 
