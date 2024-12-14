@@ -5,7 +5,8 @@ st.title("Análisis de la Base de Datos Northwind")
 
 st.write("""
 Este proyecto explora los datos de la base de datos **Northwind**, que contiene información valiosa sobre ventas, inventarios, clientes y logística.  
-El objetivo es analizar dinámicas clave del negocio a través de visualizaciones interactivas, como gráficos de dispersión y mapas jerárquicos, para ofrecer insights que apoyen la toma de decisiones estratégicas.  
+El objetivo es analizar dinámicas clave del negocio a través de visualizaciones interactivas, 
+como gráficos de dispersión y barras, para ofrecer insights que apoyen la toma de decisiones estratégicas.  
 
 
 
